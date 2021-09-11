@@ -1,4 +1,4 @@
-# Theses are exercises from online course *visual slam: theories and practices*  
+# Theses are exercises from online course: Basic Knowledge on Visual SLAM: From Theory to Practice. 
 
 ## Exercise 01  
 
