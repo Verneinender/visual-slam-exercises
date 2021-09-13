@@ -1,3 +1,0 @@
-/home/yifan/Documents/visual_slam/作业/SLAM第三讲作业资料/L3/code/build/CMakeFiles/rebuild_cache.dir
-/home/yifan/Documents/visual_slam/作业/SLAM第三讲作业资料/L3/code/build/CMakeFiles/draw_trajectory.dir
-/home/yifan/Documents/visual_slam/作业/SLAM第三讲作业资料/L3/code/build/CMakeFiles/edit_cache.dir
