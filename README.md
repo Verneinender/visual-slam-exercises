@@ -26,3 +26,12 @@
 3. Matrix differential
 4. Gauss-Newton curve fitting 
 
+## Exercise 05 
+
+1. ORB
+   1. Oriented FAST
+   2. BRIEF descriptor
+   3. Brute-Force Matcher
+2. From Essential matrix to R, t
+3. Gauss-Newton Bundle Adjustment
+4. ICP
