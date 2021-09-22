@@ -35,3 +35,9 @@
 2. From Essential matrix to R, t
 3. Gauss-Newton Bundle Adjustment
 4. ICP
+
+## Exercise 06
+
+1. Lucas-Kanade Optical Flow
+2. Direct method
+
